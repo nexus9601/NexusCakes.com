@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>NexusCakes.com - README</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.8; margin: 40px; background-color: #f8f9fa; color: #333;">
 
